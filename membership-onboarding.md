@@ -38,7 +38,7 @@ How active have they been in other online communities, can they evidence value a
 Is there any evidence their conduct elsewhere has been problematic? Have they exhibited behaviours contrary to our CoC?
 
 
-### Refernces
+### References
 
 Has the member been recommended by a current member of the group?
 
