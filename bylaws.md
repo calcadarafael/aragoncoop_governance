@@ -11,7 +11,7 @@ Aragon Cooperative will be the name of this organization. It shall be incorporat
 ### Section 2    _*Purpose*_
 The organization is incorporated solely for charitable purposes which is:
 
-Please see `purpose.md` document for the Aragon Cooperative manefesto and objectives. 
+Please see `purpose.md` document for the Aragon Cooperative manifesto and objectives. 
 
 
 ### Section 3    _*Non-Discrimination Policy*_
